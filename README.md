@@ -258,7 +258,7 @@ Note:
 - `gift?` denotes that the gift is optional.
   - i.e. both `{name: 'Luisa', age: 19}` and `{name: 'Luisa', age: 19, gift: 'Super Strength'}` are valid.
 - `string | string[]` is a union between a string and an array of strings.
-  - i.e. both `"Mirable"` and `['Mirabel', 'Isabella']` are valid.
+  - i.e. both `'Mirable'` and `['Mirabel', 'Isabella']` are valid.
 
 ## Task
 
