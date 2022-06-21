@@ -11,11 +11,6 @@ import {
   getMostSpecialMadrigal,
 } from './madrigal';
 
-test('Remove this test and uncomment the other tests below', () => {
-  expect(1 + 1).toEqual(2);
-});
-
-/*
 
 describe('createMadrigal', () => {
   test('no gift', () => {
@@ -266,5 +261,3 @@ describe('Encanto tests', () => {
     });
   });
 });
-
-*/
