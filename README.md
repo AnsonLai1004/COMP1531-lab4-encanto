@@ -67,7 +67,7 @@ cloned lab.
     <td>
 <pre>(
   name: string,
-  size: number,
+  age: number,
   gift?: string
 )</pre>
     </td>
